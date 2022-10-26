@@ -2,4 +2,6 @@
 
 - 😀 About me: I'm Front-End developer who love to create beautiful and performant products with delightful user experiences.
 - 🌱 I’m currently learning Syntactically Awesome Style Sheets (Sass).
+- 🌐 I’ve a website to describe my projects. 
+- 🔗 My Profile: https://wipawadee-profile.web.app/about-me  (Last updated 2 years ago) 
 - 📫 How to reach me: **wipawadee.mk@gmail.com**
