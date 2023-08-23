@@ -6,3 +6,10 @@
 - 🔗 My Profile: https://wipawadee-profile.web.app/about-me 
 - 📫 How to reach me: **wipawadee.mk@gmail.com**
 - I've old account github: https://github.com/wipa-frn 
+
+<h3 align="left">Trophy:</h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wipa-m&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="wipa-m" />
+  </a> 
+</p>
